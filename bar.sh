@@ -1,1 +1,0 @@
-/home/rmcgill/.config/i3/bar.sh
