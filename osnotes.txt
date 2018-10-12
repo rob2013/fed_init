@@ -1,0 +1,7 @@
+redshift	= f.lux
+sublime		= notepad
+alsamixer	= cli volume mixer
+pavucontrol	= gui volume mixer
+pactl		= pulse audio ctl
+redshift	= f.lux (windows brightness adjuster)
+linphone	= sipclient
